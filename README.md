@@ -12,6 +12,6 @@ Make sure to connect the components as per the circuit diagram provided in this 
 The ultrasonic sensor has four pins:
 - VCC: Connects to 5V on the Arduino
 - GND: Connects to GND on the Arduino
-- Trig: Connects to digital pin 9 on the Arduino
-- Echo: Connects to digital pin 10 on the Arduino
+- Trig: Connects to digital pin 11 on the Arduino
+- Echo: Connects to digital pin 12 on the Arduino
 
